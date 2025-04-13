@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aniruddha Choudhury
+- 👀 I’m interested in Football, Basketball, Cricket and Python
+- 🌱 I’m currently learning DSA 
+- 💞️ I’m looking to collaborate on various projects. 
+- 😄 Pronouns: He/Him
