@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm Aniruddha Choudhury, a passionate developer with a strong interest in programming and sports. I believe in the power of technology to solve complex problems and create meaningful impact.
+Welcome to my GitHub profile! I'm Aniruddha Choudhury, a passionate developer, data analyst and business analyst with a strong interest in programming and sports. I believe in the power of technology to solve complex problems and create meaningful impact.
 I strive to create an environment that is collaborative, supportive, and innovative in nature. Through my work, I aim to foster a culture where ideas flourish, team members uplift each other, and groundbreaking solutions emerge from collective creativity.
 
 - **Name**: Aniruddha Choudhury
@@ -77,6 +77,7 @@ Description: An interactive tool that demonstrates various sorting algorithms wi
 Key Features: Multiple sorting algorithms, animation controls, visually appealing
 
 My work also includes basic GUI applications using Python tkinter, and small real-life web applications such as a random Password Generator, a To-Do list, an interactive Stack Visualizer, a Number System Converter and so on. 
+
 I have also build the "Flappy Bird" game during the course of my Python learning.  
 
 
@@ -96,7 +97,6 @@ I'm always open to connecting with other people that share interests similar to 
 - **Email**: aniruddha0234@gmail.com / aniruddha02032004@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/aniruddha-choudhury-843348253/
 - **LeetCode**: https://leetcode.com/u/aniruddha0203201/
-
 
 
 ## 💭 Philosophy
