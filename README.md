@@ -33,28 +33,6 @@ I'm currently advancing my skills in **Data Structures and Algorithms (DSA)**, f
 - Data Science and Analytics
 - Power BI and Business Analytics
 
-## 🏆 Interests and Hobbies
-
-Beyond coding, I enjoy a diverse range of activities that keep me intellectually engaged and physically active:
-Sports Enthusiast
-
-⚽ Football - Following matches and analyzing gameplay strategies along with being a lethal number 9. I understand the game from both tactical and playing perspectives, having experienced the precision required in the striker position.
-🏀 Basketball - Enjoying the tactical aspects and team dynamics, with its fast pace and exhaustive nature. The sport's emphasis on quick decision-making and adaptability resonates with my programming approach.
-🏏 Cricket - Deep appreciation for the sport's strategic elements. Having actively played cricket, I understand firsthand the importance of patience, timing, and strategic thinking - qualities that translate beautifully into coding challenges and problem-solving.
-🏸 Badminton - Appreciate the quick reflexes and strategic positioning required, which mirrors the agility needed in software development.
-
-Mental Sports & Entertainment
-
-♟️ Chess - Strategic thinking and pattern recognition skills that directly translate to algorithmic problem-solving and code optimization.
-🎬 Cinema - Exploring different genres and narratives, which enhances my creativity and storytelling abilities in development projects.
-
-Reading Interests
-
-📚 Sports Journalism - Stay updated with latest sports analysis and commentary to deepen my understanding of various games.
-📖 Athletes' Biographies - Drawing inspiration from athletes' journeys, dedication, and problem-solving approaches to challenges.
-
-These diverse interests teach me valuable lessons about discipline, strategy,
-
 ## 🤝 Collaboration and Projects
 #🚀 Featured Projects
 
